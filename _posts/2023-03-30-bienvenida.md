@@ -15,7 +15,7 @@ Además, la movilidad eléctrica ha mejorado la calidad del aire. Las emisiones 
 
 La movilidad eléctrica también ha cambiado la forma en que las personas se mueven. Las bicicletas eléctricas y los patinetes eléctricos se han convertido en opciones populares para viajes cortos, lo que ha reducido la congestión del tráfico en las ciudades. Además, los coches eléctricos han mejorado la movilidad de las personas con discapacidades, ya que son más silenciosos y fáciles de conducir!
 
-![](/images/car-1.png "electric car")
+![](/images/car-1.jpg "electric car")
 
 En cuanto a la economía, la movilidad eléctrica ha creado nuevas oportunidades de empleo en la fabricación, venta y mantenimiento de vehículos eléctricos. Además, la reducción de la dependencia de los combustibles fósiles ha reducido la volatilidad del precio del petróleo, lo que ha llevado a una mayor estabilidad económica.
 
